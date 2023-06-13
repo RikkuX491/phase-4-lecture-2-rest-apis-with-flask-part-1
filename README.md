@@ -36,8 +36,8 @@ export FLASK_RUN_PORT=7000
 
 6. We will write code in the `app.py` file to build functionality to handle POST requests to the `/hotels` route.
 
-7. We will rewrite the code for handling GET and POST requests such that it follows the convention for REST APIs.
+7. Enter the command `flask run` or `python app.py` in the terminal to run the Flask app (make sure that you are in the `server` directory before running these terminal commands).
 
-8. Enter the command `flask run` or `python app.py` to run the Flask app.
+8. We will use Postman to test our app's functionality for handling POST requests.
 
-9. We will use Postman to test our app's functionality for handling GET and POST requests.
+9. We will rewrite the code for handling GET and POST requests such that it follows the convention for REST APIs.
